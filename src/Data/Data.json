@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "image":"https://i.ibb.co/C6jBckM/Frame.png",
+    "name": "BIKE",
+    "destination": "hfrith0@mit.edu",
+    "cost": 5
+  }, 
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/YX6ybpJ/Frame-1.png",
+    "name": "CAR",
+    "destination": "gwhiteland1@meetup.com",
+    "cost": 7
+  }, {
+    "id": 3,
+    "image": "https://i.ibb.co/PxJ9TDq/Frame-2.png",
+    "name": "BUS",
+    "destination": "mheining2@blinklist.com",
+    "cost": 10
+  }, {
+    "id": 4,
+    "image": "https://i.ibb.co/drJMKzb/Group.png",
+    "name": "TRAIN",
+    "destination": "slingfoot3@dedecms.com",
+    "cost": 5
+  }]
